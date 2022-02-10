@@ -133,8 +133,5 @@ public class Runner
         int[] intList22 = {1, 2, 3, 4, 5, 6};
         ArrayList<Integer> modes5 = ArrayListAlgorithms.modes(intList22);
         System.out.println(modes5);
-
-        System.out.println("hello world");
-
     }
 }
